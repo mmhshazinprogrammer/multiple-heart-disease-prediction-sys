@@ -1,0 +1,4 @@
+streamlit run "C:\Users\i am\Desktop\Multiple disease prediction system\app.py"
+
+
+docker build --no-cache -t mypythonapp .
